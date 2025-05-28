@@ -9,5 +9,13 @@ official website: https://su.qq.com/ (DirectCast in Visual Basic .net) (echo php
 Shit Moutain Version
 
     flexiable thinking
+    consider Latex or lean4 later on
 
-    copnsider Latex or lean4 later on
+Mainly use JavaScript && Typescript (inspired by OceanCat)
+html css php (Canvas in Cultist Simulater and BOOK OF HOURS)
+ASM Websembly (in ...... Software inner core)
+
+    
+
+
+     
