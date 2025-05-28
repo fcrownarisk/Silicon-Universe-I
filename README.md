@@ -10,6 +10,7 @@ Shit Moutain Version
 
     flexiable thinking
     consider Latex or lean4 later on
+     (echo php) html(calculator) 
 
 Mainly use JavaScript && Typescript (inspired by OceanCat) </br>
 html css php (Canvas in Cultist Simulater and BOOK OF HOURS) </br>
