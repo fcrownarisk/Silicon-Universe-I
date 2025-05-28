@@ -11,9 +11,9 @@ Shit Moutain Version
     flexiable thinking
     consider Latex or lean4 later on
 
-Mainly use JavaScript && Typescript (inspired by OceanCat)
-html css php (Canvas in Cultist Simulater and BOOK OF HOURS)
-ASM Websembly (in ...... Software inner core)
+Mainly use JavaScript && Typescript (inspired by OceanCat) </br>
+html css php (Canvas in Cultist Simulater and BOOK OF HOURS) </br>
+ASM Websembly (in ...... Software inner core) </br>
 
     
 
