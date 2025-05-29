@@ -207,58 +207,58 @@ void ijk(){
 }}
 void lmn(){
   float l , m , n;
-  char wx;
+  char wy;
 }
   int t3{
   function t3(){
   int32_t
-  asin(wx + l)
+  asin(wy + l)
   int64_t
-  acos(wx - m)
+  acos(wy - m)
   int128_t
-  asin(wx + n)
+  asin(wy + n)
   int256_t
-  acos(wx - n)}
+  acos(wy - n)}
   }
 }
   int t4(){
   function t4(){
   int256_t
-  asin(wx - l)
+  asin(wy - l)
   int128_t
-  acos(wx + m)
+  acos(wy + m)
   int64_t
-  asin(wx - n)
+  asin(wy - n)
   int32_t
-  acos(wx + n)}
+  acos(wy + n)}
   }
 }
 void opq(){
   double o ,q ,p;
-  char wx;
+  char wz;
 }
 int t5{
    function t5(){
    int512_t
-   sh(wx + o)
+   sh(wz + o)
    int1024_t
-   ch(wx - p)
+   ch(wz - p)
    int2048_t
-   sh(wx + q)
+   sh(wz + q)
    int4096_t
-   ch(wx - o)
+   ch(wz - o)
 }
 }
 int t6{
    function t6(){
    int4096_t
-   sh(wx - o)
+   sh(wz - o)
    int2048_t
-   ch(wx + q)
+   ch(wz + q)
    int1024_t
-   sh(wx - p)
+   sh(wz - p)
    int512_t
-   ch(wx + o)
+   ch(wz + o)
   }
 }
 void rst123(){
