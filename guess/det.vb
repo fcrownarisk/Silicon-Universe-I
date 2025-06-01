@@ -35,4 +35,4 @@ Class det
  det12 =
 [1][1]
 [1][1]
-end det
+end class
