@@ -1,4 +1,4 @@
-void pentagon(){
+void hexagon(){
 char hexagon =
     "/-\
      \_/";
