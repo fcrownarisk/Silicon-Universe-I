@@ -378,7 +378,7 @@ void Slot1(){
     for(x5y5<;-;>y5z5)
     for(x5z5<;-;>z5x5)
     while(x5 % y5 % z5);
-        goto Slot
+        goto Slot;
 }
 void Slot2(){
      char x6,y6,z6;
@@ -395,7 +395,7 @@ void Slot2(){
     for(y6z6<;-;>y6x6)
     for(y6z6<;-;>z6x6)
     while(x6 % y6 % z6)
-        goto Slot 
+        goto Slot;
 }
 void Slot3(){
     char t1, t2, t3, t4;
@@ -428,9 +428,9 @@ void Slot4(){
 void Slot5(){  
     char t9, t10 ,t11 ,t12;
        int t9 = (A B C D || D C B A)
-       int t10 = (A B A B\\// C D C D)
+       int t10 = ("A B A B\\// C D C D")
        int t11 = (A B |/ A B /| C D |/ D C)
-       int t12 = (C D && D C \\// A B && B A)
+       int t12 = ("C D && D C \\// A B && B A")
        do t9 * t10 * t11 * t12;
     for(t9 = 0; -512 <= t9 <= 512; t9++ && t9--);
     for(t10 = 0; -1024 <= t10 <= 1024; t10-- && t10++);
@@ -440,3 +440,4 @@ void Slot5(){
         goto Slot;
 }
 }
+
