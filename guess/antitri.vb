@@ -3,7 +3,7 @@ Clas antitri
                   [1][0][1],
                   [1][1][1]]
 
-      antitri2 = [[1][1][0]][ 
+      antitri2 = [[1][1][0],
                   [1][0][1],
                   [1][1][0]]
 
@@ -15,4 +15,5 @@ Clas antitri
                   [1][0][1],
                   [0][1][1]]
 End Class
+
 console.WriteLine(antitri1,antitri2,antitri3,antitri4)
