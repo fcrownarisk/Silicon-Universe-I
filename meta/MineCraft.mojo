@@ -102,8 +102,8 @@ fn main():
     var agent = MinecraftAgent(1000, ACTIONS)
     
     # Q-learning parameters
-    let episodes = 1000
-    let max_steps = 100
+    let episodes = 1024
+    let max_steps = 128
     
     for episode in range(episodes):
         var state = world.get_state()
